@@ -1,0 +1,129 @@
+.contenido100{
+    width: 100%;
+}
+
+.contenido30{
+    width: 30%;
+    float: left;
+}
+
+.contenido40{
+    width: 40%;
+    float: left;
+}
+
+.contenido60{
+    width: 60%;
+    float:left;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f2f2f2;
+}
+
+.menu1 li {
+    float: left;
+}
+
+.menu1 li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu1 li a:hover {
+    background-color: #111;
+}
+
+.boton_menu1{
+    align-items: center;
+}
+
+.fondo_menu1{
+    background-image: url(https://www.modulosdesk.com/static/media/modulos-web-hero-bg-flip.0efcc100.jpg);
+}
+
+.primary-cta__2w_BgIf0{
+    text-align: center;
+    position: relative;
+    z-index: 2;
+    display: block;
+    background: none;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    background-color: #28A5BE;
+    color: #fff;
+    padding: 1.14286rem 1.71429rem;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+    transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transform: scale(1);
+    font-size: 1.14286rem;
+    float: left;
+}
+
+.secondary-cta__371BvE4Y{
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    padding: 0.71429rem 1.42857rem;
+    display: block;
+    background: none;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    background-color: #2D2D2D;
+    color: #fff;
+    transition: all 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    float: left;
+    margin-top:10px;
+}
+
+.index-hero__image-container__2fZzPcW5.image-loaded__1E61SOKu {
+    opacity: 1;
+    transform: translateY(0);
+}
+}
+
+.section2{
+    background-color: #BEEADF;
+    color: #43525A;
+    padding-top: 5.71429rem;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1400px;
+    padding: 0 1.42857rem;
+    margin: 0 auto;        
+}
+
+.text-center{
+    text-align:center;
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #F6F6F6;
+   color: white;
+   text-align: center;
+   padding: 20px;
+}
+
+.img-footer{
+    width: 7.14286rem;
+    margin: 0 auto 2.85714rem;
+    display: block;
+}
+
+.list-footer ul li {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    color:black;
+}
